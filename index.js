@@ -15,6 +15,7 @@ app.get('/oglasi', async (req, res) => {
 
   let dataOglasi = null;
   await fs.readFile('oglasi.xml', 'utf-8', (err, data) => {
+   // test
     //  Ovde citame nas xml fajl i parsujemo iz xml u js objekat i to saljemo na nasoj client stranici
     const ogl = xml2js.parseString(data, (err, result) => {
       dataOglasi = result.oglasi.oglas;
