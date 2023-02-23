@@ -1,0 +1,93 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<oglasi>
+  <oglas>
+    <kategorija>Stan</kategorija>
+    <tekst>Tekst izmenjen skorz zbgo testa</tekst>
+    <cena>23232</cena>
+    <datumIstekaDan>23</datumIstekaDan>
+    <datumIstekaMesec>1</datumIstekaMesec>
+    <email>acatest@gmail.com</email>
+    <oznake/>
+    <id>0</id>
+  </oglas>
+  <oglas>
+    <kategorija>Auto</kategorija>
+    <tekst>Na prodaju automobil marke pole...</tekst>
+    <cena>3600</cena>
+    <datumIstekaDan>23</datumIstekaDan>
+    <datumIstekaMesec>3</datumIstekaMesec>
+    <email>aca@gmail.com</email>
+    <oznake/>
+    <id>31</id>
+  </oglas>
+  <oglas>
+    <kategorija>Auto</kategorija>
+    <tekst>NA prodaju auto makre golf crni</tekst>
+    <cena>32323</cena>
+    <datumIstekaDan>23</datumIstekaDan>
+    <datumIstekaMesec>3</datumIstekaMesec>
+    <email>acakovac13@gmail.com</email>
+    <oznake/>
+    <id>58</id>
+  </oglas>
+  <oglas>
+    <kategorija>Auto</kategorija>
+    <tekst>NA prodaju auto makre golf crni</tekst>
+    <cena>32323</cena>
+    <datumIstekaDan>23</datumIstekaDan>
+    <datumIstekaMesec>3</datumIstekaMesec>
+    <email>acakovac13@gmail.com</email>
+    <oznake/>
+    <id>28</id>
+  </oglas>
+  <oglas>
+    <kategorija>Auto</kategorija>
+    <tekst>NA prodaju auto makre golf crni</tekst>
+    <cena>32323</cena>
+    <datumIstekaDan>23</datumIstekaDan>
+    <datumIstekaMesec>3</datumIstekaMesec>
+    <email>acakovac13@gmail.com</email>
+    <oznake/>
+    <id>82</id>
+  </oglas>
+  <oglas>
+    <kategorija>Auto</kategorija>
+    <tekst>Na prodaju auto mare polo crni</tekst>
+    <cena>2323</cena>
+    <datumIstekaDan>2</datumIstekaDan>
+    <datumIstekaMesec>2</datumIstekaMesec>
+    <email>acakovac13@gmail.com</email>
+    <oznake/>
+    <id>59</id>
+  </oglas>
+  <oglas>
+    <kategorija>Auto</kategorija>
+    <tekst>Na prodaju auto makre polo</tekst>
+    <cena>23232</cena>
+    <datumIstekaDan>2</datumIstekaDan>
+    <datumIstekaMesec>2</datumIstekaMesec>
+    <email>aca@gmail.com</email>
+    <oznake/>
+    <id>15</id>
+  </oglas>
+  <oglas>
+    <kategorija>Auto</kategorija>
+    <tekst>Na prodaju auto makre polo</tekst>
+    <cena>23232</cena>
+    <datumIstekaDan>2</datumIstekaDan>
+    <datumIstekaMesec>2</datumIstekaMesec>
+    <email>aca@gmail.com</email>
+    <oznake/>
+    <id>82</id>
+  </oglas>
+  <oglas>
+    <kategorija>Auto</kategorija>
+    <tekst>dwadawdwadwa dwawdwadwa</tekst>
+    <cena>21321</cena>
+    <datumIstekaDan>23</datumIstekaDan>
+    <datumIstekaMesec>1</datumIstekaMesec>
+    <email>acakovac13@gmail.com</email>
+    <oznake/>
+    <id>7</id>
+  </oglas>
+</oglasi>
