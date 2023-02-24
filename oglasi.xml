@@ -1,26 +1,6 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <oglasi>
   <oglas>
-    <kategorija>Stan</kategorija>
-    <tekst>Tekst izmenjen skorz zbgo testa</tekst>
-    <cena>23232</cena>
-    <datumIstekaDan>23</datumIstekaDan>
-    <datumIstekaMesec>1</datumIstekaMesec>
-    <email>acatest@gmail.com</email>
-    <oznake/>
-    <id>0</id>
-  </oglas>
-  <oglas>
-    <kategorija>Auto</kategorija>
-    <tekst>Na prodaju automobil marke pole...</tekst>
-    <cena>3600</cena>
-    <datumIstekaDan>23</datumIstekaDan>
-    <datumIstekaMesec>3</datumIstekaMesec>
-    <email>aca@gmail.com</email>
-    <oznake/>
-    <id>31</id>
-  </oglas>
-  <oglas>
     <kategorija>Auto</kategorija>
     <tekst>NA prodaju auto makre golf crni</tekst>
     <cena>32323</cena>
